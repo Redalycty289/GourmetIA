@@ -1,0 +1,43 @@
+Comida,Grupo,Carbohidratos,Proteínas,Grasas
+Arroz con Pollo,Comida,2.0,2.0,1.0
+Arroz a la Cubana,Comida,3.0,1.0,1.0
+Risotto de Champiñones,Comida,3.0,1.0,1.0
+Paella de Mariscos,Comida,2.0,2.0,1.0
+Arroz con Verduras,Comida,3.0,1.0,1.0
+Pasta al Pesto,Cena,3.0,1.0,2.0
+Espaguetis Boloñesa,Cena,3.0,2.0,1.0
+Fettuccine Alfredo,Cena,3.0,1.0,3.0
+Pasta Carbonara,Cena,3.0,2.0,3.0
+Lasaña Vegetariana,Cena,3.0,1.0,2.0
+Estofado de Ternera,Comida,1.0,3.0,2.0
+Carne Asada con Patatas,Comida,2.0,3.0,1.0
+Hamburguesa Casera,Cena,1.0,3.0,3.0
+Albóndigas en Salsa,Cena,1.0,3.0,2.0
+Chuleta de Cerdo con Ensalada,Cena,1.0,3.0,1.0
+Lentejas con Chorizo,Comida,3.0,2.0,2.0
+Garbanzos con Espinacas,Comida,2.0,2.0,1.0
+Ensalada de Frijoles,Comida,1.0,1.0,1.0
+Curry de Garbanzos,Cena,2.0,2.0,1.0
+Sopa de Lentejas,Cena,2.0,1.0,1.0
+Tostadas con Aguacate,Desayuno,2.0,1.0,2.0
+Yogur con Granola,Desayuno,2.0,1.0,1.0
+Avena con Frutas,Desayuno,3.0,1.0,1.0
+Panqueques con Miel,Desayuno,3.0,1.0,2.0
+Tostadas con Mermelada,Desayuno,2.0,1.0,1.0
+Salmón a la Plancha,Cena,0.0,3.0,2.0
+Merluza al Horno,Cena,0.0,3.0,1.0
+Pescado con Verduras al Vapor,Comida,1.0,2.0,1.0
+Ensalada de Espinacas,Comida,1.0,1.0,0.0
+Brócoli al Vapor,Cena,1.0,1.0,0.0
+Salteado de Verduras,Comida,2.0,1.0,1.0
+Guiso de Calabacín,Cena,1.0,1.0,1.0
+Pimientos Rellenos de Arroz,Comida,2.0,2.0,1.0
+Zanahorias Glaseadas,Cena,1.0,1.0,1.0
+Sopa de Verduras,Comida,1.0,1.0,0.0
+Bizcocho avena y platano,Desayuno,1.0,1.0,0.0
+Casa,Comida,0.0,0.0,0.0
+Casa,Cena,0.0,0.0,0.0
+Paella,Comida,2.0,1.0,0.0
+-Sin definir-,Comida,0.0,0.0,0.0
+-Sin definir-,Desayuno,0.0,0.0,0.0
+-Sin definir-,Cena,0.0,0.0,0.0
